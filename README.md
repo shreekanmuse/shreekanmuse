@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structure and full stack development**
 
-- 👨‍💻 All of my projects are available at [GitHub and linkedin](GitHub and linkedin)
+- 👨‍💻 All of my projects are available at [https://github.com/shreekanmuse](GitHub)
 
 - 📫 How to reach me **shreekanmuse@gmail.com**
 
