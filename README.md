@@ -1,4 +1,5 @@
-![My Name](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&width=435&lines=SHREERAKSH+KANMUSE)
+# SHREERAKSH KANMUSE
+![Header](https://capsule-render.vercel.app/render?type=thicker&color=0077B5&text=SHREERAKSH%20KANMUSE&fontSize=50&animation=fadeIn)
 <h3 align="center">INFORMATION SCIENCE ENGINEER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreekanmuse&label=Profile%20views&color=0e75b6&style=flat" alt="shreekanmuse" /> </p>
