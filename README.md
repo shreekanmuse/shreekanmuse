@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreekanmuse&label=Profile%20views&color=0e75b6&style=flat" alt="shreekanmuse" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/ryo-ma/github-profile-trophy" alt="shreekanmuse" /></a> </p>
-
 - 🌱 I’m currently learning **Data Structure and full stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shreekanmuse](GitHub)
