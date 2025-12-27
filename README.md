@@ -1,4 +1,6 @@
-<h1 align="center">HEllO 👋, I'm SHREERAKSH</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&width=1000&height=200&section=header&text=SHREERAKSH%20KANMUSE&fontSize=50" />
+</p>
 <h3 align="center">INFORMATION SCIENCE ENGINEER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreekanmuse&label=Profile%20views&color=0e75b6&style=flat" alt="shreekanmuse" /> </p>
