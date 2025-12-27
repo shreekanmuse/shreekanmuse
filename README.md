@@ -1,5 +1,8 @@
-# SHREERAKSH KANMUSE
-![Header](https://capsule-render.vercel.app/render?type=thicker&color=0077B5&text=SHREERAKSH%20KANMUSE&fontSize=50&animation=fadeIn)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreeraksh-kanmuse">
+    <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&weight=900&size=50&pause=1000&color=FF3131&center=true&vCenter=true&width=700&height=100&lines=SHREERAKSH+KANMUSE" alt="SHREERAKSH KANMUSE" />
+  </a>
+</p>
 <h3 align="center">INFORMATION SCIENCE ENGINEER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreekanmuse&label=Profile%20views&color=0e75b6&style=flat" alt="shreekanmuse" /> </p>
